@@ -1,0 +1,26 @@
+--- Final Zoo Report ---
+Total Animals: 16
+
+--- Animal Details ---
+Name: Shenzi | Species: Hyena | Age: 4
+Name:  Banzai | Species: Hyena | Age: 12
+Name:  Ed | Species: Hyena | Age: 4
+Name:  Zig | Species: Hyena | Age: 8
+Name: Scar | Species: Lion | Age: 6
+Name:  Mufasa | Species: Lion | Age: 12
+Name:  Simba | Species: Lion | Age: 22
+Name:  Kiara | Species: Lion | Age: 4
+Name: Tony | Species: Tiger | Age: 2
+Name:  Tigger | Species: Tiger | Age: 4
+Name:  Amber | Species: Tiger | Age: 18
+Name:  Cosimia | Species: Tiger | Age: 3
+Name: Yogi | Species: Bear | Age: 7
+Name:  Smokey | Species: Bear | Age: 25
+Name:  Paddington | Species: Bear | Age: 4
+Name:  Lippy | Species: Bear | Age: 4
+
+ --- Species Counts ---
+hyena: 4
+bear: 4
+tiger: 4
+lion: 4
